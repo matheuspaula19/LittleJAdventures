@@ -1,6 +1,8 @@
 # LittleJAdventures
 An educational simple game created to a school project.
 
+Note: Due to App inventor limitations this game only runs in android 4.4 or lower.
+
 Developed by:
 Matheus de Paula, Matheus Marra,Alberto Leão, Gustavo Fujita and Gabriel  Rodrigues
 
