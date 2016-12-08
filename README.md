@@ -1,6 +1,6 @@
-# LittleJAdventures
+# Little J Adventures
 An educational simple game created to a school project.
-
+To insitall the App, download the (.apk) file and set your device to accept unknow applications!
 Note: Due to App Inventor limitations this game only runs well in android 4.4 or lower (multi-screen issue).
 
 Developed by:
